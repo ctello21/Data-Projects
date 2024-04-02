@@ -1,2 +1,2 @@
 # Data-Projects
-Christian's means of showcasing his love of future endeavors :)
+Christian's data projects to display skills and implementation during analysis.
